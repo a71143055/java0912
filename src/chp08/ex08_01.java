@@ -49,6 +49,7 @@ class Hero {
         return "Hero{" +
                 "name='" + name + '\'' +
                 ", power='" + power +
-                ", speed='" + speed + "}";
+                ", speed='" + speed +
+                "}";
     }
 }
